@@ -9,36 +9,33 @@
 
 ## 📝 Project Description
 
-We built a fully functional Learning Management System (LMS) using ASP.NET for the web application layer and SQL Server for the database backend.
+- We built a fully functional Learning Management System (LMS) using ASP.NET for the web application layer and SQL Server for the database backend.
 
-The system provides secure login and role-based access, separating users into students, instructors, and an admin. The platform manages course content, assignments, grading, and discussions through a dedicated forum.
+- The system provides secure login and role-based access, separating users into students, instructors, and an admin. The platform manages course content, assignments, grading, and discussions through a dedicated forum.
 
 
 ## 🛠️ Technologies Used
 
-Backend: ASP.NET
+- Backend: ASP.NET
 
-Database: SQL Server
+- Database: SQL Server
 
-Frontend: HTML, CSS, JavaScript
+- Frontend: HTML, CSS, JavaScript
 
-Browser: Microsoft Edge
+- Browser: Microsoft Edge
 
 ## 🚀 Installation & Setup
 
-Clone this repository:
 
-git clone https://github.com/yourusername/lms-project.git
+- git clone https://github.com/yourusername/lms-project.git
 cd lms-project
 
 
-Open the solution in Visual Studio.
+- Open the solution in Visual Studio.
 
-Update the database connection string in Web.config with your SQL Server credentials.
+- Update the database connection string in Web.config with your SQL Server credentials.
 
-Run the project to start the web application.
-
-Open the site in Microsoft Edge for the best compatibility.
+- Open the site in Microsoft Edge for the best compatibility.
 
 ## 📸 Screenshots
 
