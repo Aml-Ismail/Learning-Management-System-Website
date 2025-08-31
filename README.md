@@ -27,8 +27,8 @@
 ## 🚀 Installation & Setup
 
 
-- git clone https://github.com/yourusername/lms-project.git
-cd lms-project
+- git clone https://github.com/Aml-Ismail/Learning-Management-System-Website.git
+
 
 
 - Open the solution in Visual Studio.
